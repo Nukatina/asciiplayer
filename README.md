@@ -1,25 +1,21 @@
-# asciiplayer — Terminal ASCII Video Player
+# termbeats — Real-time ASCII Music Visualiser
 
-Play **any video or YouTube link** as live ASCII art — entirely in the terminal!
+![demo](demo.gif)
 
-No audio needed • Works perfectly in GitHub CodeSpaces • Pure Bash + ffmpeg
+A stunning 40-band music visualiser written in **pure Bash** with zero dependencies.
 
-## Features
-- Real-time ASCII video
-- Supports local files + YouTube URLs
-- Built-in 15-second demo video
-- Zero audio dependencies
+No audio files • No ffmpeg • No yt-dlp • No internet needed  
+Works perfectly in **GitHub CodeSpaces** with one command.
 
-## One-Click Demo (CodeSpaces Ready)
+## One-Command Demo
 
 ```bash
-chmod +x install-deps.sh asciiplayer.sh
-./install-deps.sh
-./asciiplayer.sh          # plays built-in demo
+chmod +x termbeats.sh
+./termbeats.sh
 ```
 
 ## Case Study
-I wanted a stunning terminal demo that works everywhere — even on headless servers. This plays videos as ASCII art with zero audio hassle.
+I needed a portfolio piece that demonstrates advanced Bash skills (loops, math, terminal control) and looks incredible on any recruiter's screen — even on headless servers. This does exactly that.
 
 ## Attribution
 Built with help from Grok by xAI • December 2025
