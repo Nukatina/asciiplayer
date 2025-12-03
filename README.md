@@ -1,6 +1,4 @@
-# termbeats — Real-time ASCII Music Visualiser
-
-![demo](demo.gif)
+# asciiplayer — Real-time ASCII Music Visualiser
 
 A stunning 40-band music visualiser written in **pure Bash** with zero dependencies.
 
