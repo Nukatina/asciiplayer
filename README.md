@@ -23,5 +23,5 @@ I wanted a stunning terminal demo that works everywhere — even on headless ser
 
 ## Attribution
 Built with help from Grok by xAI • December 2025
-Author: YOUR NAME
+Author: Tina Bowles
 MIT License
