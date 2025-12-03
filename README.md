@@ -17,5 +17,5 @@ I needed a portfolio piece that demonstrates advanced Bash skills (loops, math, 
 
 ## Attribution
 Built with help from Grok by xAI • December 2025
-Author: Tina Bowles
+Author: Nukatina
 MIT License
