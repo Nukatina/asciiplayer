@@ -8,8 +8,8 @@ Works perfectly in **GitHub CodeSpaces** with one command.
 ## One-Command Demo
 
 ```bash
-chmod +x termbeats.sh
-./termbeats.sh
+chmod +x asciiplayer.sh
+./asciiplayer.sh
 ```
 
 ## Case Study
